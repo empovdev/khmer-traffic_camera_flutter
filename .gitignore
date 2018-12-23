@@ -103,3 +103,4 @@ build/
 /ios/Runner/Base.lproj/Main.storyboard
 /ios/Runner/Info.plist
 /ios/Runner/main.m
+/android/key.properties
