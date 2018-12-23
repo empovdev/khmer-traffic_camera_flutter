@@ -1,6 +1,11 @@
 # khmer_traffic_live
 
-Khmer Traffic  Live Provided By Ezecom
+Khmer Traffic  Live
+
+Using Video Player Plugin to stream traffic camera provided by Ezecom.
+
+The App is built using Flutter.
+
 
 ## Getting Started
 
