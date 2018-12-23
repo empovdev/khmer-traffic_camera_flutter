@@ -23,6 +23,8 @@ dependencies:
   video_player: ^0.8.0
   connectivity: ^0.3.2
   scoped_model: ^1.0.1
+  flutter_launcher_icons: ^0.7.0
+
 dev_dependencies:
   flutter_test:
     sdk: flutter
@@ -71,3 +73,7 @@ flutter:
   # see https://flutter.io/custom-fonts/#from-packages
   assets:
     - assets/data.json
+flutter_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "icon/icon.png"
